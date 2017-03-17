@@ -3,7 +3,7 @@
 int main()
 {
 	printf("third hello world\n");
-	123
+	1234
 	
 	return 0;
 }
